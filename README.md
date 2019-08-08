@@ -1,4 +1,5 @@
 # Bitcoin development workspace in regtest
+![splash](https://user-images.githubusercontent.com/451306/62719700-394bf380-ba11-11e9-8228-46df241d5dc0.jpg)
 
 ### Bitcoin container
 Source: [freewil/bitcoin-testnet-box](https://hub.docker.com/r/freewil/bitcoin-testnet-box)
