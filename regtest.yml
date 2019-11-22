@@ -9,9 +9,9 @@ services:
       - "127.0.0.1:19001:19001"
       - "127.0.0.1:19011:19011"
     command:
-      - /home/tester/bitcoin-testnet-box/host/run.sh
+      - /home/tester/bitcoin-testnet-box/run.sh
     volumes:
-      - ./data/run.sh:/home/tester/bitcoin-testnet-box/run.sh
+      - ./run.sh:/home/tester/bitcoin-testnet-box/run.sh
       - ./data/1:/home/tester/bitcoin-testnet-box/1/regtest
       - ./data/2:/home/tester/bitcoin-testnet-box/2/regtest
 
